@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\bin\Debug\netcoreapp3.1\Api_Estagio.exe
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\bin\Debug\netcoreapp3.1\Api_Estagio.deps.json
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\bin\Debug\netcoreapp3.1\Api_Estagio.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\bin\Debug\netcoreapp3.1\Api_Estagio.runtimeconfig.dev.json
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\bin\Debug\netcoreapp3.1\Api_Estagio.dll
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\bin\Debug\netcoreapp3.1\Api_Estagio.pdb
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\obj\Debug\netcoreapp3.1\Api_Estagio.csprojAssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\obj\Debug\netcoreapp3.1\Api_Estagio.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\obj\Debug\netcoreapp3.1\Api_Estagio.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\obj\Debug\netcoreapp3.1\Api_Estagio.dll
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\obj\Debug\netcoreapp3.1\Api_Estagio.pdb
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\bin\Debug\netcoreapp3.1\Refit.dll
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\obj\Debug\netcoreapp3.1\RefitStubs.g.cs
+C:\Users\erick\OneDrive\Documentos\Docs. do Erick\Erick Batista\Projeto Visual Studio 2019\Api_Estagio\Api_Estagio\obj\Debug\netcoreapp3.1\Api_Estagio.csproj.CopyComplete
